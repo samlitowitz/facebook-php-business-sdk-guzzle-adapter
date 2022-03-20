@@ -10,5 +10,17 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "facebook/php-business-sdk": "^12.0",
+        "phpunit/phpunit": "9.0.0",
+        "guzzlehttp/guzzle": "7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FacebookGuzzleAdapter\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "FacebookGuzzleAdapter\\": ["src/", "tests/"]
+    }
 }
