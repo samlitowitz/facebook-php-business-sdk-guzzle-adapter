@@ -1,0 +1,14 @@
+{
+    "name": "samlitowitz/facebook-php-business-sdk-guzzle-adapter",
+    "description": "A Guzzle adapter for the Facebook PHP Business SDK",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Sam Litowitz",
+            "email": "samlitowitz@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
