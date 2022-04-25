@@ -11,9 +11,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "facebook/php-business-sdk": "^12.0",
-        "phpunit/phpunit": "9.0.0",
-        "guzzlehttp/guzzle": "7.0"
+        "guzzlehttp/guzzle": "7.0",
+        "facebook/php-business-sdk": "^12.0"
     },
     "autoload": {
         "psr-4": {
@@ -22,5 +21,8 @@
     },
     "autoload-dev": {
         "FacebookGuzzleAdapter\\": ["src/", "tests/"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.0.0"
     }
 }
