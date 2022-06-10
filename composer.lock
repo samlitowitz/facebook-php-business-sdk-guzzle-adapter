@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1d061351f343fad143f2913324c0a1a8",
+    "content-hash": "93b07f2a78f8332ef87af7fa805c9f3c",
     "packages": [
         {
             "name": "facebook/php-business-sdk",
-            "version": "12.0.1",
+            "version": "13.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/facebook/facebook-php-business-sdk.git",
-                "reference": "8a5116a7b9dda010e41438380c18eb2576719ef9"
+                "reference": "ee6c4a0b9c50555b9ba78f456bffd78bff51374a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facebook/facebook-php-business-sdk/zipball/8a5116a7b9dda010e41438380c18eb2576719ef9",
-                "reference": "8a5116a7b9dda010e41438380c18eb2576719ef9",
+                "url": "https://api.github.com/repos/facebook/facebook-php-business-sdk/zipball/ee6c4a0b9c50555b9ba78f456bffd78bff51374a",
+                "reference": "ee6c4a0b9c50555b9ba78f456bffd78bff51374a",
                 "shasum": ""
             },
             "require": {
@@ -46,9 +46,9 @@
                 "sdk"
             ],
             "support": {
-                "source": "https://github.com/facebook/facebook-php-business-sdk/tree/12.0.1"
+                "source": "https://github.com/facebook/facebook-php-business-sdk/tree/13.0.0"
             },
-            "time": "2021-10-25T22:58:14+00:00"
+            "time": "2022-03-30T01:49:10+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
