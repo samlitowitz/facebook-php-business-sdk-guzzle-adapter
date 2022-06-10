@@ -11,7 +11,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "guzzlehttp/guzzle": "7.0",
+        "php":"^7.2 || ^8.0",
+        "guzzlehttp/guzzle": "^7.0",
         "facebook/php-business-sdk": "^12.0"
     },
     "autoload": {
