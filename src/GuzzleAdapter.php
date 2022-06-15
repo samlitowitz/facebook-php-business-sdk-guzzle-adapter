@@ -132,7 +132,7 @@ final class GuzzleAdapter extends AbstractAdapter {
 		foreach ($bodyParamsExport as $key => $value) {
 			$bodyParamsForMultipart[] = [
 				'name' => $key,
-				'content' => $value,
+				'contents' => $value,
 			];
 		}
 
