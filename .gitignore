@@ -2,5 +2,6 @@
 
 !.gitignore
 
-vendor/
+composer.lock
 
+vendor/
