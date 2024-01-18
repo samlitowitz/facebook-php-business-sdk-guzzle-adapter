@@ -10,10 +10,16 @@
         }
     ],
     "minimum-stability": "stable",
+    "repositories": [
+        {
+			"type": "vcs",
+			"url": "https://github.com/meetsoci/facebook-php-business-sdk.git"
+		}
+    ],
     "require": {
         "php":">=8.0",
         "guzzlehttp/guzzle": "^6.5 || ^7.0",
-        "facebook/php-business-sdk": "^18.0.0"
+        "facebook/php-business-sdk": "18.0.2.72"
     },
     "autoload": {
         "psr-4": {
