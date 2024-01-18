@@ -2,6 +2,7 @@
 
 !.gitignore
 
+auth.json
 composer.lock
 
 vendor/
